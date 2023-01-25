@@ -20,7 +20,7 @@ Created by GovTech, CrowdTaskSG is a digital platform with a web portal that let
 
 CrowdTaskSG seeks to encourage more individuals to voluntarily step forward to actively support the process of creating a better place. It offers various opportunities for citizens to share their opinions and feedback with government agencies. 
 
-Working and co-creating with interested citizens help government agencies to improve their services and products – by tapping on citizens' expertise to solve problems and involving the public early in product or policy creation, while enriching the experience of citizens as they contribute by carrying out the tasks and activities. For example, citizens may earn virtual coins through completing tasks on CrowdTaskSG, and redeem these virtual coins for vouchers.
+Working and co-creating with interested citizens help government agencies to improve their services and products, for example, by tapping on citizens' expertise to solve problems and involving the public early in product or policy creation – while enriching the experience of citizens as they contribute by carrying out the tasks and activities.
 
 The use of [MyInfo](products/categories/digital-identity/myinfo/){:target="_blank"} for citizens allows for personalised tasks. For example, agencies can opt to select parents for surveys related to childcare or early childhood education.
 
@@ -61,6 +61,18 @@ Refer to Features for more details.
 	  <figcaption>Fig 3: A Journey Map on how a public officer starts a citizen engagement project.</figcaption>
 </figure>
 
+Government agencies in Singapore can create tasks based on their needs. For example, an agency can use CrowdTaskSG to conduct a survey to discover find out what the public thinks about climate change. 
 
+The citizens who respond to the survey through CrowdTask will gain experience points and virtual coins that can be redeemed for vouchers, for example.
+
+A typical CrowdTaskSG will start with the initiation and approval process. After obtaining approval, officers will create the task, distribute the task, engage citizen participants and finally analyse the collected data. 
+
+### Pricing
+
+CrowdTaskSG is free to use until further notice.
+
+### Contact Us
+
+{% include contact-us-form.html %}
 
 
