@@ -8,7 +8,7 @@ _data: single-level-nav
 
 ### Multimedia
 
-- [CrowdTaskSG web portal](CrowdTaskSG web portal){:target="_blank"}
+- [CrowdTaskSG web portal](https://www.crowdtask.gov.sg/){:target="_blank"}
 - [CrowdTaskSG page on GovTech website](https://www.tech.gov.sg/products-and-services/crowdtasksg/){:target="_blank"}
 
 ### Media Coverage
