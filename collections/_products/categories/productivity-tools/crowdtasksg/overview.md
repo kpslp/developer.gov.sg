@@ -28,10 +28,11 @@ Through gamification and incentivisation, CrowdTaskSG will keep citizens engaged
 
 <figure style="text-align: center">
   <img
-    src="/assets/img/odp-punggol-digital-district.jpg" width="80%" height="80%"
+    src="/assets/img/crowdtasksg-fig-1.png" width="80%" height="80%"
   />
-	  <figcaption>Fig 1: Master planned and developed by JTC, PDD will be Singapore’s first smart district. Photo credit: JTC.</figcaption>
+	  <figcaption>Fig 1: What CrowdTaskSG offers to public agencies and citizens.</figcaption>
 </figure>
+
 
 
 
