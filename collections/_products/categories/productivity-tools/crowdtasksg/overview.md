@@ -28,7 +28,7 @@ Through gamification and incentivisation, CrowdTaskSG will keep citizens engaged
 
 <figure style="text-align: center">
   <img
-    src="/assets/img/crowdtasksg-fig-1.png" width="80%" height="80%"
+    src="/assets/img/crowdtasksg-fig-1.png" width="70%" height="70%"
   />
 	  <figcaption>Fig 1: What CrowdTaskSG offers to public agencies and citizens.</figcaption>
 </figure>
