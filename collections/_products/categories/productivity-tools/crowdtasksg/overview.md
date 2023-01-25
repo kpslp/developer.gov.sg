@@ -12,8 +12,6 @@ collection_group: [Citizen-facing Products, What's New]
 description: The CrowdTaskSG digital platform allows public agencies to crowdsource ideas and engage with citizens for activities and tasks that help shape our nation’s future..
 ---
 
-![Postman header banner](/assets/img/postman-HeaderBanner-v2.png)
-
 Public agencies can enhance citizen engagement efforts with [CrowdTaskSG](https://www.crowdtask.gov.sg/){:target="_blank"} - a Whole-of-Government (WOG) Citizen Engagement Tool that is designed for task creation, distribution, engagement and analysis.
 
 Created by GovTech, CrowdTaskSG is a digital platform with a web portal that lets agencies engage communities of citizens to participate in crowdsourcing activities and tasks – such as surveys, polls, translation work and more.
