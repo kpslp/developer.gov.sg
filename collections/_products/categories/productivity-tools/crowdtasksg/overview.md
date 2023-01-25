@@ -40,5 +40,27 @@ Through gamification and incentivisation, CrowdTaskSG will keep citizens engaged
 	  <figcaption>Fig 2: How CrowdTaskSG can help agencies to engage citizens.</figcaption>
 </figure>
 
+Beyond the beta stage, the CrowdTaskSG team will be working on including more types of tasks, introducing more advanced gamification features, and integrating with [GovWallet](/products/categories/platform/govwallet/){:target="_blank"} for incentivisation.
+
+### Key Features
+
+- Admin portal to create tasks
+- In-built gamification elements
+- Tools to create tasks easily
+- Data visualisation tools for quick analysis
+- Web portal for citizens
+
+Refer to Features for more details.
+
+### Use Case
+
+<figure style="text-align: center">
+  <img
+    src="/assets/img/crowdtasksg-fig-3.png" width="70%" height="70%"
+  />
+	  <figcaption>Fig 3: A Journey Map on how a public officer starts a citizen engagement project.</figcaption>
+</figure>
+
+
 
 
