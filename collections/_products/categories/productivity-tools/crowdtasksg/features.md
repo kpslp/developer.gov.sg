@@ -24,5 +24,5 @@ The platform’s basic data visualisation tools allow for quick analysis of the 
 
 ### Web portal for citizens
 
-Citizens and permanent residents aged 18 and above, with a [Singpass](/products/categories/digital-identity/singpass/){:target="_blank"} account, can use the [CrowdTaskSG Web Portal](https://www.crowdtask.gov.sg/){:target="_blank"} to take part in tasks and gain virtual coins and experience points.
+Citizens and permanent residents aged 18 and above, with a [Singpass](/products/categories/digital-identity/singpass/){:target="_blank"} account, can use the [CrowdTaskSG web portal](https://www.crowdtask.gov.sg/){:target="_blank"} to take part in tasks and gain virtual coins and experience points.
 
