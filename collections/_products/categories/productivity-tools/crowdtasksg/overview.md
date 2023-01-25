@@ -22,7 +22,7 @@ CrowdTaskSG seeks to encourage more individuals to voluntarily step forward to a
 
 Working and co-creating with interested citizens help government agencies to improve their services and products, for example, by tapping on citizens' expertise to solve problems and involving the public early in product or policy creation – while enriching the experience of citizens as they contribute by carrying out the tasks and activities.
 
-The use of [MyInfo](products/categories/digital-identity/myinfo/){:target="_blank"} for citizens allows for personalised tasks. For example, agencies can opt to select parents for surveys related to childcare or early childhood education.
+The use of [Myinfo](/products/categories/digital-identity/myinfo/){:target="_blank"} for citizens allows for personalised tasks. For example, agencies can opt to select parents for surveys related to childcare or early childhood education.
 
 Through gamification and incentivisation, CrowdTaskSG will keep citizens engaged through the whole journey to build high-quality responses.
 
