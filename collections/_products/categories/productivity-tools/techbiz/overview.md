@@ -39,7 +39,7 @@ For Users:
 - Better and more efficient subscription experiences for SGTS services
 - Oversight of resource consumption for more informed planning decisions and reporting
 
-TechBiz is now integrated with [SHIP-HATS](https://www.developer.tech.gov.sg/products/categories/devops/ship-hats/overview.html){:target="\_blank"} and moving forward, it will be integrated with more SGTS services such as [StackOps](https://www.developer.tech.gov.sg/products/categories/devops/stackops/overview.html){:target="\_blank"}, [Container Stack](https://www.developer.tech.gov.sg/products/categories/devops/container-stack/overview.html)){:target="\_blank"} etc.
+TechBiz is now integrated with [SHIP-HATS](https://www.developer.tech.gov.sg/products/categories/devops/ship-hats/overview.html){:target="\_blank"} and moving forward, it will be integrated with more SGTS services such as [StackOps](https://www.developer.tech.gov.sg/products/categories/devops/stackops/overview.html){:target="\_blank"}, [Container Stack](https://www.developer.tech.gov.sg/products/categories/devops/container-stack/overview.html){:target="\_blank"} etc.
 
 ### Contact Us
 
